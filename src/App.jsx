@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>{import.meta.env.VITE_NOME}</h1>
           <p>
-            Conectando em {import.meta.env.VITE_API_URL} <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Conectando em {import.meta.env.VITE_API_URL}
           </p>
         </div>
         <button
